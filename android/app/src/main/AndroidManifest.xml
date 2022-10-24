@@ -4,7 +4,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
        android:usesCleartextTraffic="true"
-        android:label="modu_webview"
+        android:label="Modu"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
        tools:targetApi="n">
